@@ -1,6 +1,6 @@
 # Karaoğlan Saat - Lüks Saat Butiği Lansman Sitesi
 
-Karaoğlan Saat için modern, yüksek performanslı ve akıcı animasyonlara sahip lüks saat butiği lansman web sitesi.
+Karaoğlan Saat için modern ve akıcı animasyonlara sahip lüks saat lansman web sitesi.
 
 ---
 
@@ -18,11 +18,11 @@ Bu proje, üst segment ve lüks saat koleksiyonlarını sergilemek amacıyla gel
 
 ## Kullanılan Teknolojiler
 
-- Next.js 16 (App Router)
+- Next.js 16
 - React 19 & TypeScript
 - Tailwind CSS v4
-- GSAP & @gsap/react (İleri seviye kaydırma ve geçiş animasyonları)
-- Lucide React (Vektörel ikon seti)
+- GSAP & @gsap/react 
+- Lucide React
 - QR Code Entegrasyonu
 
 ---
@@ -30,9 +30,7 @@ Bu proje, üst segment ve lüks saat koleksiyonlarını sergilemek amacıyla gel
 ## Öne Çıkan Özellikler
 
 - Hero Bölümü: Dinamik arka plan videosu, tipografi ve pürüzsüz geçiş maskeleri.
-- Butik & Koleksiyon: Saat modellerinin detaylı vitrin sunumu.
 - Aksiyon Sahnesi (Pin Scene): Kullanıcı kaydırdıkça tetiklenen interaktif GSAP sahneleri.
-- Güven & Orijinallik Bölümü: Sertifikalı ve garantili ürün güvencesi vurgusu.
 - İletişim & Sosyal Medya: Instagram, WhatsApp, harita ve doğrudan iletişim kanalları.
 - Tam Mobil Uyum: Tüm ekran boyutlarında akıcı kullanıcı deneyimi.
 
@@ -53,11 +51,3 @@ npm run dev
 Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek siteyi görüntüleyebilirsiniz.
 
 ---
-
-## Dağıtım (Deployment)
-
-Proje Vercel üzerinde sıfır yapılandırma ile anında canlıya alınabilir:
-
-```bash
-npm run build
-```
